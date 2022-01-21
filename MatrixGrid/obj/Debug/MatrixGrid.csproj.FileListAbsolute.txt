@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\MatrixGrid\MatrixGrid\bin\Debug\MatrixGrid.exe.config
+C:\Users\Lenovo\source\repos\MatrixGrid\MatrixGrid\bin\Debug\MatrixGrid.exe
+C:\Users\Lenovo\source\repos\MatrixGrid\MatrixGrid\bin\Debug\MatrixGrid.pdb
+C:\Users\Lenovo\source\repos\MatrixGrid\MatrixGrid\obj\Debug\MatrixGrid.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MatrixGrid\MatrixGrid\obj\Debug\MatrixGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\MatrixGrid\MatrixGrid\obj\Debug\MatrixGrid.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\MatrixGrid\MatrixGrid\obj\Debug\MatrixGrid.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\MatrixGrid\MatrixGrid\obj\Debug\MatrixGrid.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MatrixGrid\MatrixGrid\obj\Debug\MatrixGrid.exe
+C:\Users\Lenovo\source\repos\MatrixGrid\MatrixGrid\obj\Debug\MatrixGrid.pdb
+C:\Users\Lenovo\source\repos\MatrixGrid\MatrixGrid\obj\Debug\MatrixGrid.Form1.resources

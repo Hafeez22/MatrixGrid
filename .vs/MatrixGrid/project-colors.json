@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "19e1ea2d-2e05-4ea2-ae14-49ba0087063a": {
+      "ProjectGuid": "19e1ea2d-2e05-4ea2-ae14-49ba0087063a",
+      "DisplayName": "MatrixGrid",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
